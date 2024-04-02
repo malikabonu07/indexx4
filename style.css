@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns:400px 400px 400px;
+    height: 400px;
+    gap: 20px;
+    padding: 50px;
+    grid-template-rows: 200px;
+
+}
+.box{
+    font-size:large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:cadetblue;
+}
+.body {
+    background-color:seagreen;
+}
